@@ -1,0 +1,229 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "eeed9730b2f5e2ab534bf372d4f0b06626b25edd"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "ConsoleApp0/1.0.0": {
+        "dependencies": {
+          "DataLibrary": "1.0.0",
+          "EnterpriseLibrary.Common": "6.0.1304",
+          "EnterpriseLibrary.Data": "6.0.1304",
+          "System.ServiceModel.Duplex": "4.4.4",
+          "System.ServiceModel.Http": "4.4.4",
+          "System.ServiceModel.NetTcp": "4.4.4",
+          "System.ServiceModel.Security": "4.4.4",
+          "NLog": "4.0.0.0"
+        },
+        "runtime": {
+          "ConsoleApp0.dll": {}
+        }
+      },
+      "EnterpriseLibrary.Common/6.0.1304": {
+        "runtime": {
+          "lib/NET45/Microsoft.Practices.EnterpriseLibrary.Common.dll": {}
+        }
+      },
+      "EnterpriseLibrary.Data/6.0.1304": {
+        "dependencies": {
+          "EnterpriseLibrary.Common": "6.0.1304"
+        },
+        "runtime": {
+          "lib/NET45/Microsoft.Practices.EnterpriseLibrary.Data.dll": {}
+        }
+      },
+      "System.Net.Http.WinHttpHandler/4.4.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Net.Http.WinHttpHandler.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netstandard2.0/System.Net.Http.WinHttpHandler.dll": {
+            "rid": "win",
+            "assetType": "runtime"
+          }
+        }
+      },
+      "System.Private.ServiceModel/4.4.4": {
+        "dependencies": {
+          "System.Net.Http.WinHttpHandler": "4.4.0",
+          "System.Reflection.DispatchProxy": "4.4.0",
+          "System.Security.Principal.Windows": "4.4.0"
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netstandard2.0/System.Private.ServiceModel.dll": {
+            "rid": "unix",
+            "assetType": "runtime"
+          },
+          "runtimes/win7/lib/netstandard2.0/System.Private.ServiceModel.dll": {
+            "rid": "win7",
+            "assetType": "runtime"
+          }
+        }
+      },
+      "System.Reflection.DispatchProxy/4.4.0": {},
+      "System.Security.Principal.Windows/4.4.0": {
+        "runtimeTargets": {
+          "runtime/unix/lib/_._": {
+            "rid": "unix",
+            "assetType": "runtime"
+          },
+          "runtime/win/lib/_._": {
+            "rid": "win",
+            "assetType": "runtime"
+          }
+        }
+      },
+      "System.ServiceModel.Duplex/4.4.4": {
+        "dependencies": {
+          "System.Private.ServiceModel": "4.4.4",
+          "System.ServiceModel.Primitives": "4.4.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.ServiceModel.Duplex.dll": {}
+        }
+      },
+      "System.ServiceModel.Http/4.4.4": {
+        "dependencies": {
+          "System.Private.ServiceModel": "4.4.4",
+          "System.ServiceModel.Primitives": "4.4.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.ServiceModel.Http.dll": {}
+        }
+      },
+      "System.ServiceModel.NetTcp/4.4.4": {
+        "dependencies": {
+          "System.Private.ServiceModel": "4.4.4",
+          "System.ServiceModel.Primitives": "4.4.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.ServiceModel.NetTcp.dll": {}
+        }
+      },
+      "System.ServiceModel.Primitives/4.4.4": {
+        "dependencies": {
+          "System.Private.ServiceModel": "4.4.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.ServiceModel.Primitives.dll": {},
+          "lib/netstandard2.0/System.ServiceModel.dll": {}
+        }
+      },
+      "System.ServiceModel.Security/4.4.4": {
+        "dependencies": {
+          "System.Private.ServiceModel": "4.4.4",
+          "System.ServiceModel.Primitives": "4.4.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.ServiceModel.Security.dll": {}
+        }
+      },
+      "DataLibrary/1.0.0": {
+        "runtime": {
+          "DataLibrary.dll": {}
+        }
+      },
+      "NLog/4.0.0.0": {
+        "runtime": {
+          "NLog.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EnterpriseLibrary.Common/6.0.1304": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-w/ua1PWAQD1/CnJ+qz/5APgmqI/1YnbamnwFGSotm7b66sFIkrnfLC+9+WzcSZWnePwwUw3Pl2QsLVDyX7NwaQ==",
+      "path": "enterpriselibrary.common/6.0.1304",
+      "hashPath": "enterpriselibrary.common.6.0.1304.nupkg.sha512"
+    },
+    "EnterpriseLibrary.Data/6.0.1304": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FmaIrwbO7qOg0hd6rESeltyxcOccBa9V5QXPQ/4vMzpqZXh457uiJcwV4Xtx8q1zFhiGq1AszYjWP1p69Qps+w==",
+      "path": "enterpriselibrary.data/6.0.1304",
+      "hashPath": "enterpriselibrary.data.6.0.1304.nupkg.sha512"
+    },
+    "System.Net.Http.WinHttpHandler/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZmsFZIZ4PL2UfUlfj4KCzzAGGE2SF39ENIqtvfgu0bwMEAe3J3CqZr765E2W6eQQtNK08/8DpHcsA0sAKZdEtA==",
+      "path": "system.net.http.winhttphandler/4.4.0",
+      "hashPath": "system.net.http.winhttphandler.4.4.0.nupkg.sha512"
+    },
+    "System.Private.ServiceModel/4.4.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tRGIvhHCqfIkfHKwf4moJ+XxrcDLJnGlfdLaOMTIC+1a9bj0V9bOOJj6H2yuT3ITs3j3Or20oTaqqld91mM+eg==",
+      "path": "system.private.servicemodel/4.4.4",
+      "hashPath": "system.private.servicemodel.4.4.4.nupkg.sha512"
+    },
+    "System.Reflection.DispatchProxy/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xK6JE0mpsBD+T0qu3V6dmVRa06PxAvIIM/zSjouqP7Sk6X+FQj+9XFRz9GmZk9aJGMU1LX6AgTZIlsYZ64QKsw==",
+      "path": "system.reflection.dispatchproxy/4.4.0",
+      "hashPath": "system.reflection.dispatchproxy.4.4.0.nupkg.sha512"
+    },
+    "System.Security.Principal.Windows/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pP+AOzt1o3jESOuLmf52YQTF7H3Ng9hTnrOESQiqsnl2IbBh1HInsAMHYtoh75iUYV0OIkHmjvveraYB6zM97w==",
+      "path": "system.security.principal.windows/4.4.0",
+      "hashPath": "system.security.principal.windows.4.4.0.nupkg.sha512"
+    },
+    "System.ServiceModel.Duplex/4.4.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-av0L+0quVcRKKIrPm1mjzcbP203Qk7Ni3AKzW+ozWdsEr9TzNREYmP8soCQtZBtT4bn3FPzkG40m8nIDAWqFWA==",
+      "path": "system.servicemodel.duplex/4.4.4",
+      "hashPath": "system.servicemodel.duplex.4.4.4.nupkg.sha512"
+    },
+    "System.ServiceModel.Http/4.4.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xK5Nhr8xxzBTjF9JpVSvHWsIxiwEwrE1ZlDGfYiyCSkHJnGyx3p8fXlTMa5wWF97QVNuu/D0apdl7b5U9t/TvQ==",
+      "path": "system.servicemodel.http/4.4.4",
+      "hashPath": "system.servicemodel.http.4.4.4.nupkg.sha512"
+    },
+    "System.ServiceModel.NetTcp/4.4.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sGZT0jGKyDBtWv3SD+Ldk4MinQEijEec1cVcNFnBvSFTt+awUeVZ2E2uBXHOeslosMscOHn8OSMG/Etblm0VlA==",
+      "path": "system.servicemodel.nettcp/4.4.4",
+      "hashPath": "system.servicemodel.nettcp.4.4.4.nupkg.sha512"
+    },
+    "System.ServiceModel.Primitives/4.4.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/eHdBdoJ0n0d2zY9hN6T2SFu7lfjsvIg8Ej1w7mYL7FT6YwUQhnm3Gi5bMpFoOKaBpcJ98N9In7cNvYtsduaFg==",
+      "path": "system.servicemodel.primitives/4.4.4",
+      "hashPath": "system.servicemodel.primitives.4.4.4.nupkg.sha512"
+    },
+    "System.ServiceModel.Security/4.4.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8fL79L2pIrvZJZxh3ccrqWMWpQdrQ1eSYZ2xHFlTM/3fL/8H/HPpeHPZAIwd7ikq3qFgCKtjX/WJi+0hfM0pDw==",
+      "path": "system.servicemodel.security/4.4.4",
+      "hashPath": "system.servicemodel.security.4.4.4.nupkg.sha512"
+    },
+    "DataLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NLog/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

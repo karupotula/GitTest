@@ -1,0 +1,11 @@
+M:\TestProjects\console\ConsoleApp0\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+M:\TestProjects\console\ConsoleApp0\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+M:\TestProjects\console\ConsoleApp0\DataLibrary\bin\Debug\DataLibrary.dll
+M:\TestProjects\console\ConsoleApp0\DataLibrary\bin\Debug\DataLibrary.pdb
+M:\TestProjects\console\ConsoleApp0\DataLibrary\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+M:\TestProjects\console\ConsoleApp0\DataLibrary\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+M:\TestProjects\console\ConsoleApp0\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+M:\TestProjects\console\ConsoleApp0\DataLibrary\obj\Debug\DataLibrary.dll
+M:\TestProjects\console\ConsoleApp0\DataLibrary\obj\Debug\DataLibrary.pdb
+M:\TestProjects\console\ConsoleApp0\DataLibrary\bin\Debug\Antlr3.Runtime.dll
+M:\TestProjects\console\ConsoleApp0\DataLibrary\bin\Debug\Newtonsoft.Json.dll

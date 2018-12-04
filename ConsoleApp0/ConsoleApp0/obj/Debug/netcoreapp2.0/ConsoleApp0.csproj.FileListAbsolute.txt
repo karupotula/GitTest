@@ -1,0 +1,17 @@
+M:\TestProjects\console\ConsoleApp0\ConsoleApp0\bin\Debug\netcoreapp2.0\ConsoleApp0.deps.json
+M:\TestProjects\console\ConsoleApp0\ConsoleApp0\bin\Debug\netcoreapp2.0\ConsoleApp0.runtimeconfig.json
+M:\TestProjects\console\ConsoleApp0\ConsoleApp0\bin\Debug\netcoreapp2.0\ConsoleApp0.runtimeconfig.dev.json
+M:\TestProjects\console\ConsoleApp0\ConsoleApp0\bin\Debug\netcoreapp2.0\ConsoleApp0.dll
+M:\TestProjects\console\ConsoleApp0\ConsoleApp0\bin\Debug\netcoreapp2.0\ConsoleApp0.pdb
+M:\TestProjects\console\ConsoleApp0\ConsoleApp0\obj\Debug\netcoreapp2.0\ConsoleApp0.csprojAssemblyReference.cache
+M:\TestProjects\console\ConsoleApp0\ConsoleApp0\obj\Debug\netcoreapp2.0\ConsoleApp0.csproj.CoreCompileInputs.cache
+M:\TestProjects\console\ConsoleApp0\ConsoleApp0\obj\Debug\netcoreapp2.0\ConsoleApp0.AssemblyInfoInputs.cache
+M:\TestProjects\console\ConsoleApp0\ConsoleApp0\obj\Debug\netcoreapp2.0\ConsoleApp0.AssemblyInfo.cs
+M:\TestProjects\console\ConsoleApp0\ConsoleApp0\obj\Debug\netcoreapp2.0\ConsoleApp0.dll
+M:\TestProjects\console\ConsoleApp0\ConsoleApp0\obj\Debug\netcoreapp2.0\ConsoleApp0.pdb
+M:\TestProjects\console\ConsoleApp0\ConsoleApp0\bin\Debug\netcoreapp2.0\NLog.dll
+M:\TestProjects\console\ConsoleApp0\ConsoleApp0\bin\Debug\netcoreapp2.0\NLog.xml
+M:\TestProjects\console\ConsoleApp0\ConsoleApp0\obj\Debug\netcoreapp2.0\ConsoleApp0.csproj.CopyComplete
+M:\TestProjects\console\ConsoleApp0\ConsoleApp0\bin\Debug\netcoreapp2.0\ConsoleApp0.dll.config
+M:\TestProjects\console\ConsoleApp0\ConsoleApp0\bin\Debug\netcoreapp2.0\DataLibrary.dll
+M:\TestProjects\console\ConsoleApp0\ConsoleApp0\bin\Debug\netcoreapp2.0\DataLibrary.pdb
